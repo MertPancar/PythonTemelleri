@@ -1,0 +1,33 @@
+website="http://www.sadikturan.com"
+course="Python Kursu: Baştan Sona Python Programlama Rehberiniz (40 saat)"
+# message="Hello World".strip()
+# # message=message.split()
+# # message=" ".join(message)
+# # # # message=len(message)
+# course=course.lower()
+# # website=website.count(("a"))
+# # website=website.endswith("com") and website.startswith("www")
+# # website=website.find(".com")
+# # course=course.isdigit()
+# # icerik="Contents"
+# # icerik=icerik.center(50,"*")
+# message=message.replace("World","There")
+# course=course.split()
+# course="".join(course)
+# print(message)
+# print(website)
+# print(course)
+# result=" Hello World ".strip()
+# result=" Hello World ".lstrip()
+# result=" Hello World ".rstrip()
+# result="www.sadikturan.com".strip("w.com")
+# print(result)
+# course=course.count("a",0,50)
+# course=course.find("a")
+# sayilar="aaaaaaaaaaaaaaaaaaaaaa".isalpha()
+# print(sayilar)
+# print(course)
+c="contents".rjust(50,"*")
+print(c)
+
+
