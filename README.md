@@ -1,1 +1,1 @@
-# PythonTemelleri
+# PythonCourse
